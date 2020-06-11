@@ -4,9 +4,7 @@
 Get the Weather information, using city name search option.
 
 # Screenshot
-![Img1](https://github.com/hraverkar/WeatherWidget/blob/master/screenshot/1.png)
-
-![Img2](https://github.com/hraverkar/WeatherWidget/blob/master/screenshot/2.png)
+![Img1](https://https://github.com/hraverkar/DailyQuotes/blob/master/screenshot/1.PNG)
 ## Live Preview
 
 You can [view the app live here](https://weather-widget.hraverkar.now.sh/)
@@ -14,7 +12,7 @@ You can [view the app live here](https://weather-widget.hraverkar.now.sh/)
 ## Tech Stack
 
 * Angular 9
-* OpenWeather API
+* forismatic API for quotes
 * Node.js
 
 ## Project setup
