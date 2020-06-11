@@ -4,7 +4,7 @@
 Get the Weather information, using city name search option.
 
 # Screenshot
-![Img1](https://https://github.com/hraverkar/DailyQuotes/blob/master/screenshot/1.PNG)
+![Img1](https:https://raw.githubusercontent.com/hraverkar/DailyQuotes/master/screenshot/1.PNG)
 ## Live Preview
 
 You can [view the app live here](https://weather-widget.hraverkar.now.sh/)
