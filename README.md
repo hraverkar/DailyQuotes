@@ -1,7 +1,7 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)
 
 # Daily Quotes
-Get the Weather information, using city name search option.
+Get the Daily Quotes. Using generate quote button get quotes.
 
 # Screenshot
 ![Img1](https://raw.githubusercontent.com/hraverkar/DailyQuotes/master/screenshot/1.PNG)
