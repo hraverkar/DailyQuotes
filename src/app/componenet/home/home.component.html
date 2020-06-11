@@ -1,0 +1,21 @@
+<mat-card>
+  <mat-card-title>
+    <mat-card-header>Daily Quotes</mat-card-header>
+  </mat-card-title>
+  <mat-card-content>
+<div>
+  <h1>{{quotes.quoteText}}</h1>
+</div>
+<div>
+  <h3>{{quotes.quoteAuthor}}</h3>
+</div>
+<br>
+</mat-card-content>
+<mat-card-actions>
+<div class="button">
+  <button class="shake-horizontal" mat-raised-button color="accent" (click)="getQuotes()">
+    Generate Quotes</button>
+</div>
+</mat-card-actions>
+</mat-card>
+
